@@ -1,5 +1,0 @@
-for(let key in localStorage){
-      if(cb.nextElementSibling.innerText === localStorage.getItem(key)){
-        localStorage.removeItem(key);
-      };
-    };
